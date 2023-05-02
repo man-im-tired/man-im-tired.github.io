@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    /* padding: 0; */
+    font-family:fantasy;
+    background-color: #292929;
+}
+h4{
+    color: #707070b6;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif, sans-serif
+}
+.cell{
+    display: flex;
+flex-direction: row;
+align-content: space-around;
+justify-content: space-around;
+flex-wrap: wrap;
+/* display: grid;
+grid-template-columns: 1fr 1fr 1fr;
+gap: 5px; */
+}
+
+ul li{
+    list-style: none;
+}
+a{
+    color: aqua;
+    text-decoration: none;
+    font-size: small;
+
+}
+.cell_block{
+
+    background-color: #9ebaf0;
+    border: 2px solid white;
+}
+.css_tools a{
+    color: rgb(61, 20, 240);
+}
+.ai a{
+    color: rgb(28, 233, 199);
+}
+.free_web_hosting a{
+    color: rgba(27, 236, 55, 0.795);
+}
+.animation_editing a{
+    color: rgba(56, 138, 67, 0.795);
+}
+.dropship_sidehustle a{
+    color: rgba(240, 227, 153, 0.795);
+}
+.tools a{
+    color: rgba(204, 125, 135, 0.795);
+}
+.freelance a{
+    color: rgba(179, 245, 239, 0.795);
+}
+.mockups a{
+    color: rgba(170, 162, 235, 0.795);
+}
+.learning a{
+    color: rgba(239, 155, 241, 0.795);
+}
